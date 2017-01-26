@@ -1,0 +1,8 @@
+__pycache__
+db_repository
+tmp
+microvenv
+app.db
+*.pyc
+*.idea
+*.DS_Store
